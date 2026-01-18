@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents
-=======
 # AI Digital Call Center - Enterprise Multi-Agent System
 
 > **A fully functional, enterprise-grade AI-powered digital call center solution featuring autonomous multi-agent architecture for intelligent customer support.**
@@ -507,5 +504,6 @@ For questions or issues, please open an issue in the repository or contact the d
 
 
 >>>>>>> (AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents)
+
 
 
