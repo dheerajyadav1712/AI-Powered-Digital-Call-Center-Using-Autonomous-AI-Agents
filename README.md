@@ -242,8 +242,7 @@ Customer Message
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/dheerajyadav1712/AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents)
-cd DECODE
+git clone https://github.com/dheerajyadav1712/AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents
 ```
 
 ### Step 2: Create Virtual Environment
