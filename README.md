@@ -497,21 +497,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👥 Team
-
-- **Team Name**: [Your Team Name]
-- **Hackathon**: TCS DECODE / SolveSphere
-- **Problem Statement**: P1 - AI-Powered Digital Call Center Using Autonomous AI Agents
-
----
-
 ## 📞 Support
 
 For questions or issues, please open an issue in the repository or contact the development team.
 
 ---
 
-**Built with ❤️ for TCS DECODE / SolveSphere Hackathon**
+**Built with ❤️ by Dheeraj Yadav*
 
 
->>>>>>> cb5c665 (AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents)
+>>>>>>> (AI-Powered-Digital-Call-Center-Using-Autonomous-AI-Agents)
+
